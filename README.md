@@ -1,4 +1,7 @@
 Welcome to Hew Yeh's collection of research posters and research projects.
+### Gamified Learning as an Intervention for Learning Statistics
+A study examining the efficacy of gamified pedagogy to teach multidimensional statistics.\
+[Link to Poster Pending]
 
 ### Covariates of Academic Burnout Among UCSD Students: A Pilot Study (2024)
 A cross-sectional pilot study mapping the landscape of academic burnout among UCSD students.\
