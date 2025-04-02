@@ -1,5 +1,5 @@
 Welcome to Hew Yeh's collection of research posters and research projects.
-### Gamified Learning as an Intervention for Learning Statistics
+### Gamified Learning as an Intervention for Learning Statistics (2025)
 A study examining the efficacy of gamified pedagogy to teach multidimensional statistics.\
 [Link to Poster Pending]
 
