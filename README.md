@@ -1,6 +1,6 @@
 Welcome to Hew Yeh's collection of research posters and research projects.
 ### Gamified Learning as an Intervention for Learning Statistics (2025)
-A study examining the efficacy of gamified pedagogy to teach multidimensional statistics.\
+A secondary data analysis examining the efficacy of gamified pedagogy to teach multidimensional statistics while controlling for baseline knowledge.\
 [Link to Poster](https://github.com/HewYeh/Research/blob/main/01%20Gamified%20Learning%20as%20an%20Intervention%20for%20Learning%20Statistics.pdf)
 
 ### Covariates of Academic Burnout Among UCSD Students: A Pilot Study (2024)
